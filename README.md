@@ -10,6 +10,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yougmi&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=U-gummy&show_icons=true)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyougmi%2Fhit-counter&count_bg=%23FF8080&title_bg=%23CF2361&icon=&icon_color=%23A2A2A2&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FU-gummy%2Fhit-counter&count_bg=%23FF8080&title_bg=%23CF2361&icon=&icon_color=%23A2A2A2&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
