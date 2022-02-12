@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=f5cec7&height=150&section=header&text=&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffc045&height=150&section=header&text=&fontSize=50)
 
 
 ### Hi there 👋, my name is Yougyoung
