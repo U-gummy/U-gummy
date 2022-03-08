@@ -3,6 +3,12 @@
 
 ### Hi there 👋, my name is Yougyoung
 #### ✏ Stack
+![N|HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white) 
+![N|CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white) 
+![N|JS ES5](https://img.shields.io/badge/JavaScript_es5-yellow?style=flat-square&logo=JavaScript&logoColor=white) 
+![N|JS ES6](https://img.shields.io/badge/JavaScript_es6-yellow?style=flat-square&logo=JavaScript&logoColor=white)
+
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
